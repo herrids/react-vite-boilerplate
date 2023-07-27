@@ -9,7 +9,6 @@ function App() {
       <div>
         <p>Hello {name}</p>
       </div>
-      <h1>Vite + React</h1>
     </>
   )
 }
